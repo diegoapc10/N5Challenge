@@ -1,0 +1,6 @@
+@N5ChallengeAPI_HostAddress = http://localhost:5283
+
+GET {{N5ChallengeAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
